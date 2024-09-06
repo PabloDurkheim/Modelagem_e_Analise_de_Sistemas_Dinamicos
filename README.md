@@ -1,0 +1,3 @@
+- Trabalho da unidade 3 de Modelagem e Análise de Sistemas Dinâmicos
+- Aborda os critérios de routh-hurwitz
+- Descrição no próprio notebook
